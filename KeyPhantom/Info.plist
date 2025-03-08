@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SUFeedURL</key>
+	<string>https://situ2001.github.io/keyphantom/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>3XSWVezwMdlxp8o6WaCdCbCSnptUrDF7LK5kW1cF1+Q=</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>LSUIElement</key>
+	<true/>
+</dict>
+</plist>
