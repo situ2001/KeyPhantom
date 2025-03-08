@@ -40,14 +40,18 @@ KeyPhantom lets me assign some global shortcuts that send "page turn" keystrokes
 
 ## Usage
 
+After setting up KeyPhantom, you can create phantom key bindings to send keystrokes to background applications:
+
 1. Open KeyPhantom from your Applications folder
 2. Click the keyboard icon in your menu bar to access KeyPhantom
 3. Open Settings to configure your phantom key bindings
 4. Create a new binding by:
-   - Setting a global shortcut
-   - Choosing the key to be sent
+   - Setting a global shortcut. For example, `Control + D`
+   - Recording the key to be sent. For example, `Right Arrow`
    - Selecting the target application
-4. Enable KeyPhantom using the toggle in menu or in the settings panel
+5. Enable KeyPhantom using the toggle in menu or in the settings panel
+
+Then, whenever you press your global shortcut (For example, `Control + D`), KeyPhantom will send the recorded key (For example, `Right Arrow`) to the target application, no matter which app is currently in focus.
 
 ## Planned Features
 
