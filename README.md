@@ -40,9 +40,10 @@ KeyPhantom lets me assign some global shortcuts that send "page turn" keystrokes
 
 ## Usage
 
-1. Click the keyboard icon in your menu bar to access KeyPhantom
-2. Open Settings to configure your phantom key bindings
-3. Create a new binding by:
+1. Open KeyPhantom from your Applications folder
+2. Click the keyboard icon in your menu bar to access KeyPhantom
+3. Open Settings to configure your phantom key bindings
+4. Create a new binding by:
    - Setting a global shortcut
    - Choosing the key to be sent
    - Selecting the target application
