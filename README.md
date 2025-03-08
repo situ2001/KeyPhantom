@@ -21,6 +21,12 @@ KeyPhantom is a macOS utility that lets you create keyboard shortcuts that send 
 - **Launch at Login**: Option to start automatically when you log in
 - **Automatic Updates**: Stay current with the latest features and improvements
 
+## Why I Built KeyPhantom
+
+I created KeyPhantom to solve a personal frustration. As a Minecraft player, I often found myself wanting to read e-books while playing. However, Minecraft relies heavily on mouse control, making it impossible to switch to other apps like WeChat Reading or other e-book readers to flip pages without disrupting gameplay.
+
+KeyPhantom lets me assign some global shortcuts that send "page turn" keystrokes to my e-book reading app in the background while I remain focused on Minecraft. This way, I can continue gaming with full mouse control while still flipping my e-book, without switching apps and making my game lose focus and pause.
+
 ## Requirements
 
 - macOS 13.5 or later
