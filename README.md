@@ -51,7 +51,7 @@ KeyPhantom lets me assign some global shortcuts that send "page turn" keystrokes
 
 ## Planned Features
 
-KeyPhantom currently supports sending single keyboard events to background applications, but the architecture is designed to support more functionality in the future:
+KeyPhantom currently supports sending single keyboard events to background applications, but more features are planned for future releases:
 
 - **Modifier Key Support**: Send complex key combinations with modifier keys
 - **Scroll Wheel Events**: Control scrolling in background applications
